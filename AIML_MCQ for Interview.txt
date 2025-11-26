@@ -1,0 +1,706 @@
+**AI & Facial Recognition: Interview Preparation MCQ Paper**
+
+**Instructions:** Please choose the **best** answer for each question.
+
+1.  Artificial Intelligence (AI) is a branch of computer science focused on creating systems capable of performing tasks that typically require:
+    A) Manual labor
+    B) Physical strength
+    C) Human intelligence
+    D) Artistic creativity
+
+2.  Which of the following is an example of a task AI systems aim to replicate or augment?
+    A) Cooking gourmet meals
+    B) Building physical structures
+    C) Cognitive functions like learning and reasoning
+    D) Performing complex surgeries manually
+
+3.  The concept of Artificial Intelligence dates back to which decade?
+    A) 1940s
+    B) 1950s
+    C) 1960s
+    D) 1970s
+
+4.  Who proposed the Turing Test in 1950 to evaluate a machine's ability to exhibit intelligent behavior?
+    A) John McCarthy
+    B) Alan Turing
+    C) Marvin Minsky
+    D) Herbert Simon
+
+5.  Initial enthusiasm for early AI programs was limited due to:
+    A) Lack of government funding
+    B) Insufficient computing power and lack of data
+    C) Public distrust of technology
+    D) Over-reliance on expert systems
+
+6.  Which of these is NOT listed as a main factor for the dramatic resurgence of modern AI?
+    A) Big Data
+    B) Computational Power
+    C) Advanced Algorithms
+    D) Rule-based systems
+
+7.  DeepMind, acquired by Google, is well-known for creating AlphaGo, which defeated world champions in the complex board game:
+    A) Chess
+    B) Go
+    C) Poker
+    D) Starcraft
+
+8.  Which organization created powerful language models like GPT and Codex?
+    A) DeepMind
+    B) Google
+    C) OpenAI
+    D) Microsoft
+
+9.  Machine Learning (ML) is described as a subset of AI that focuses on creating systems that learn from data and improve over time without being:
+    A) Connected to the internet
+    B) Explicitly programmed
+    C) Human-supervised
+    D) Open-source
+
+10. A key characteristic of Machine Learning is its ability to get better at a task the more it is exposed to relevant data, which is known as:
+    A) Explicit programming
+    B) Rule-based systems
+    C) Experience-based learning
+    D) Manual tuning
+
+11. What is the goal of Supervised Learning?
+    A) To discover hidden patterns in data without predefined labels
+    B) To predict labels for new, unseen data based on labeled training data
+    C) To learn through trial and error, receiving rewards or penalties
+    D) To automate decision-making processes without human input
+
+12. Customer segmentation in marketing is a typical application of which type of Machine Learning?
+    A) Supervised Learning
+    B) Unsupervised Learning
+    C) Reinforcement Learning
+    D) Semi-Supervised Learning
+
+13. Training a robot to walk by providing rewards for desired actions is an example of which type of Machine Learning?
+    A) Supervised Learning
+    B) Unsupervised Learning
+    C) Reinforcement Learning
+    D) Semi-Supervised Learning
+
+14. The AI Design Cycle is described as an iterative process, meaning developers often:
+    A) Follow a strict linear path without deviations
+    B) Revisit and refine earlier steps to improve performance
+    C) Complete each step only once before deployment
+    D) Delegate each step to different teams without collaboration
+
+15. The fish classification example (salmon or sea bass) in the AI Design Cycle analogy was originally used by which pioneer?
+    A) Alan Turing
+    B) Tom Mitchell
+    C) Andrew Ng
+    D) Geoffrey Hinton
+
+16. In the AI Design Cycle, setting up cameras above a conveyor belt to capture images of fish is an example of:
+    A) Preprocessing
+    B) Data Collection
+    C) Feature Extraction
+    D) Model Training
+
+17. Before data can be used for training, it must be cleaned and prepared in the step known as:
+    A) Data Splitting
+    B) Model Training
+    C) Preprocessing
+    D) Data Collection
+
+18. Removing unnecessary details from images so the model focuses only on the main subject (e.g., the fish) is part of which AI Design Cycle step?
+    A) Data Splitting
+    B) Preprocessing
+    C) Feature Extraction
+    D) Model Evaluation
+
+19. A typical split for a dataset into training and test sets is:
+    A) 50% training, 50% testing
+    B) 60% training, 40% testing
+    C) 70% training, 30% testing
+    D) 80% training, 20% testing
+
+20. In classical Machine Learning, the step where meaningful features like body length, color intensity, or fin shape are extracted to help the model distinguish classes is called:
+    A) Data Collection
+    B) Preprocessing
+    C) Feature Extraction / Feature Engineering
+    D) Model Training
+
+21. What often determines the quality of a classical Machine Learning model?
+    A) The size of the test set
+    B) The quality of features extracted
+    C) The duration of data collection
+    D) The number of iterations in the design cycle
+
+22. After training, a model is tested on the test set to evaluate its performance on new, unseen data using metrics such as:
+    A) Throughput, Latency, Bandwidth
+    B) Accuracy, Precision/Recall, F1 Score
+    C) Cost, Revenue, Profit
+    D) CPU Usage, Memory Footprint, Disk I/O
+
+23. If the performance of an AI model is unsatisfactory, revisiting earlier steps like collecting more data or improving features is part of which step?
+    A) Data Splitting
+    B) Model Training
+    C) Iterate if Needed
+    D) Decision Boundary definition
+
+24. In classification tasks, the model draws a **decision boundary** in the feature space primarily to:
+    A) Mark the end of the training process
+    B) Indicate the amount of data collected
+    C) Separate different classes
+    D) Measure the model's training time
+
+25. **Facial Detection** is described as a fundamental application of AI in Computer Vision with the primary purpose of:
+    A) Identifying a person's identity
+    B) Automatically identifying and locating human faces in images or video
+    C) Analyzing human emotions
+    D) Performing biometric authentication
+
+26. Which of the following is a common tool used in Facial Detection?
+    A) Microsoft Word
+    B) OpenCV (Open Source Computer Vision Library)
+    C) Adobe Photoshop
+    D) Google Sheets
+
+27. **Underfitting** occurs when an AI model is:
+    A) Too complex and learns noise in the data
+    B) Too simple to learn the underlying structure of the data
+    C) Perfectly balanced in complexity
+    D) Unable to process large datasets
+
+28. A symptom of **underfitting** is:
+    A) Very high training accuracy
+    B) Low test accuracy but high training accuracy
+    C) Low training accuracy and low test accuracy
+    D) High variance
+
+29. Which of the following is a potential cause of **underfitting**?
+    A) Too many features
+    B) Model is not complex enough
+    C) Too much training data
+    D) Regularization is too weak
+
+30. A proposed solution for **underfitting** is to:
+    A) Simplify the model
+    B) Train for a shorter period
+    C) Add more features
+    D) Increase regularization
+
+31. **Overfitting** occurs when a model:
+    A) Is too simple and cannot capture data patterns
+    B) Learns the training data too well, including noise and outliers
+    C) Performs equally well on training and unseen data
+    D) Has insufficient computational power
+
+32. A symptom of **overfitting** is:
+    A) Low training accuracy
+    B) Low test accuracy combined with very high training accuracy
+    C) Low bias
+    D) Consistent performance across all datasets
+
+33. Which of these is a common cause of **overfitting**?
+    A) Important features are missing
+    B) Training time is too short
+    C) Small training dataset
+    D) Regularization is too strong
+
+34. A proposed solution for **overfitting** is:
+    A) Train with less data
+    B) Simplify the model
+    C) Add more features
+    D) Reduce regularization
+
+35. What is the key takeaway regarding achieving good model performance?
+    A) Always aim for the simplest model possible
+    B) Prioritize high training accuracy above all else
+    C) Find a balance between underfitting and overfitting for good generalization
+    D) Maximize model complexity to capture all data nuances
+
+36. **Facial Recognition** is described as a biometric software application that uses AI algorithms to perform all of the following EXCEPT:
+    A) Detect a human face
+    B) Extract and analyze facial features
+    C) Create new human faces
+    D) Compare features to a database to identify or verify identity
+
+37. Which of the following is a common application of facial recognition?
+    A) Predicting stock market trends
+    B) Mobile device authentication (e.g., unlocking smartphones)
+    C) Translating languages in real-time
+    D) Controlling industrial machinery remotely
+
+38. In retail and marketing, facial recognition can be used to:
+    A) Monitor employee working hours only
+    B) Analyze customer demographics and emotions for personalized offers
+    C) Track inventory levels in warehouses
+    D) Manage online payment gateways only
+
+39. The underlying technology for facial recognition heavily relies on:
+    A) Natural Language Processing (NLP)
+    B) Robotic Process Automation (RPA)
+    C) Computer Vision and deep learning
+    D) Quantum Computing
+
+40. One of the key ethical concerns in AI, particularly facial recognition, is **Privacy**, which questions:
+    A) The cost of AI development
+    B) Whether it's ethical to capture and analyze someone's face without consent
+    C) The speed of facial recognition systems
+    D) The computational power required for AI
+
+41. Facial recognition systems have shown lower accuracy for women and people of color. This is an example of which ethical concern?
+    A) Transparency
+    B) Accountability
+    C) Bias and Fairness
+    D) Privacy
+
+42. What does "Transparency" mean in the context of ethical AI guidelines?
+    A) AI systems should reveal their source code publicly
+    B) Users should understand how AI decisions are made
+    C) AI systems should operate invisibly in the background
+    D) AI models should be simple and easy to explain
+
+43. Which characteristic is NOT listed as a guideline for ethical AI?
+    A) Transparent
+    B) Accountable
+    C) Exclusive
+    D) Privacy-Respecting
+
+44. According to the document, what is "data" in the world of Artificial Intelligence?
+    A) The rules explicitly programmed into a system
+    B) Information the computer needs to learn how to make smart decisions
+    C) The final output of an AI model
+    D) The hardware components of an AI system
+
+45. Why does AI need data, according to the analogy provided?
+    A) To keep engineers busy
+    B) As its learning material, similar to how a student uses books
+    C) To make systems unnecessarily complex
+    D) To ensure models are rule-based
+
+46. What can happen if an AI is trained "Without good data"?
+    A) The AI will learn well and make useful predictions
+    B) The AI will give wrong or dangerous advice
+    C) The AI will automatically fix its own data issues
+    D) The AI will not require further training
+
+47. Which of the following is listed as a public website with free datasets?
+    A) Amazon.com
+    B) Kaggle
+    C) Wikipedia
+    D) Facebook.com
+
+48. APIs (Application Programming Interfaces) are described as "robot doorways to the Internet" that can be used to collect data like:
+    A) Physical products
+    B) Weather updates
+    C) Human emotions directly
+    D) Raw natural resources
+
+49. Data collected from smartwatches tracking heart rates or farm sensors checking soil moisture are examples from:
+    A) Public websites
+    B) APIs
+    C) Sensors and Smart Devices
+    D) Company or Government data
+
+50. What is a key ethical consideration when acquiring data?
+    A) Always ask for permission to use the data
+    B) Collect as much data as possible, regardless of source
+    C) Prioritize quantity over privacy concerns
+    D) Only use data from public domains
+
+51. The step where you check out what's inside a dataset, find patterns, and look for "weird stuff" like missing values, is called:
+    A) Data Visualization
+    B) Data Modeling
+    C) Data Exploration
+    D) Data Generation
+
+52. The primary reason for **Data Visualization** is to:
+    A) Store data more efficiently
+    B) Turn data into pictures to make it easier to understand and spot patterns
+    C) Encrypt data for security
+    D) Speed up data collection
+
+53. Which type of chart is best suited for comparing categories, such as the number of cats vs. dogs?
+    A) Line Chart
+    B) Scatter Plot
+    C) Bar Chart
+    D) Tree Diagram
+
+54. If you want to see trends over time, such as temperature over 10 days, which chart type would be most appropriate?
+    A) Bar Chart
+    B) Line Chart
+    C) Scatter Plot
+    D) Tree Diagram
+
+55. The section on "How AI Learns from Data" compares Supervised Learning to:
+    A) Solving a mystery
+    B) A teacher giving quizzes
+    C) Learning to skateboard
+    D) A class with hints
+
+56. In **Supervised Learning**, the data typically has:
+    A) Only the "questions" (no right answers)
+    B) Both the question and the answer (labeled data)
+    C) A mix of labeled and unlabeled data
+    D) Only rewards and penalties
+
+57. An AI looking at shopping habits and figuring out that people who buy ice cream also buy chocolate, without being explicitly told, is an example of:
+    A) Supervised Learning
+    B) Unsupervised Learning
+    C) Semi-Supervised Learning
+    D) Reinforcement Learning
+
+58. Which type of Machine Learning is best for situations where full labels for data are hard to get, like medical images?
+    A) Supervised Learning
+    B) Unsupervised Learning
+    C) Semi-Supervised Learning
+    D) Reinforcement Learning
+
+59. Training a robot to walk, where it receives rewards or penalties for its actions, best describes:
+    A) Supervised Learning
+    B) Unsupervised Learning
+    C) Semi-Supervised Learning
+    D) Reinforcement Learning
+
+60. Which term represents the "big idea" or umbrella term for making computers think and act smart like humans?
+    A) Machine Learning (ML)
+    B) Deep Learning (DL)
+    C) Artificial Intelligence (AI)
+    D) Neural Networks (NN)
+
+61. **Machine Learning** is described as:
+    A) A type of AI where the computer follows pre-written rules
+    B) A type of AI where the computer learns from data
+    C) A specific application of AI like chatbots
+    D) A part of AI that only deals with human-like interactions
+
+62. **Deep Learning** is a special kind of Machine Learning that uses:
+    A) Rule-based systems
+    B) Decision trees exclusively
+    C) Neural networks
+    D) Simple statistical models
+
+63. Which type of system is characterized by a human writing out all the specific "if-then" rules the AI should follow?
+    A) Learning-Based Systems
+    B) Deep Learning Systems
+    C) Rule-Based Systems
+    D) Reinforcement Learning Systems
+
+64. A disadvantage of **Rule-Based Systems** is that they:
+    A) Can adapt and improve over time
+    B) Handle complex or messy problems well
+    C) Need a human to write all the rules and don't adapt if things change
+    D) Require a lot of data to function
+
+65. **Learning-Based Systems** (modern method) are characterized by:
+    A) Humans explicitly programming every decision
+    B) The AI learning rules by itself from examples
+    C) A lack of ability to improve over time
+    D) Simpler problems being handled better than complex ones
+
+66. What is often considered the "black box" problem in Learning-Based Systems?
+    A) The need for large amounts of data
+    B) Difficulty in understanding how the AI learned something
+    C) Their inability to handle fuzzy problems
+    D) Their dependence on human rules
+
+67. Which type of system should be used if the task is complex or changes often, such as predicting TikTok videos you’ll like next?
+    A) Rule-Based
+    B) Learning-Based
+    C) Hybrid (Rule-Based + Learning-Based)
+    D) Neither, as AI cannot do this
+
+68. In an AI model test, when the AI predicts "YES" and there was actually a fire, this is called a:
+    A) False Positive (FP)
+    B) False Negative (FN)
+    C) True Positive (TP)
+    D) True Negative (TN)
+
+69. If an AI predicts "NO" but there was actually a fire, this is called a:
+    A) False Positive (FP)
+    B) False Negative (FN)
+    C) True Positive (TP)
+    D) True Negative (TN)
+
+70. **Accuracy** in AI model testing is calculated as:
+    A) (TP + TN) / (TP + TN + FP + FN)
+    B) TP / (TP + FP)
+    C) TP / (TP + FN)
+    D) 2 \* (Precision \* Recall) / (Precision + Recall)
+
+71. Why can Accuracy be misleading, especially when the thing you're trying to find is rare (e.g., forest fires)?
+    A) It always indicates a high number of false positives
+    B) A model that always says "No fire" could still have high accuracy but be useless
+    C) It doesn't account for true negatives
+    D) It is only useful for balanced datasets
+
+72. **Precision** focuses on:
+    A) Catching all true positive cases
+    B) Avoiding false alarms (when the AI says YES, how often is it right?)
+    C) Measuring the overall correctness of the AI
+    D) Balancing true positives and true negatives
+
+73. In a spam filter, which metric is generally more important to avoid flagging important emails as spam?
+    A) Accuracy
+    B) Recall
+    C) Precision
+    D) F1 Score
+
+74. **Recall** (also known as Sensitivity) focuses on:
+    A) How often the AI is correct when it says NO
+    B) How many true cases the AI caught out of all real YES cases
+    C) The proportion of correct negative predictions
+    D) The overall balance of correct predictions
+
+75. For forest fire detection, which metric is usually more important because it's better to catch every fire, even if it means some false alarms?
+    A) Precision
+    B) Accuracy
+    C) Recall
+    D) F1 Score
+
+76. The **F1 Score** is used to:
+    A) Only measure how well the model avoids false positives
+    B) Only measure how well the model catches true positives
+    C) Balance both precision and recall into a single score
+    D) Determine the computational efficiency of the model
+
+77. A **Decision Tree** makes decisions by following a path of "yes" or "no" questions, leading to a:
+    A) Complex neural network
+    B) Random forest
+    C) Final answer
+    D) Probability distribution
+
+78. What is the "root" in a Decision Tree?
+    A) The final decision
+    B) The first question
+    C) A path to follow
+    D) A type of data
+
+79. A key advantage of using **Decision Trees** is that they are:
+    A) Always the most accurate models
+    B) Hard to understand for non-coders
+    C) Easy to understand
+    D) Require extensive data scaling
+
+80. What is a common struggle for a single Decision Tree?
+    A) It cannot work with numerical data
+    B) It always needs data to be scaled
+    C) It can be too simple or overfit if it's too big
+    D) It cannot split based on categorical data
+
+81. **Computer Vision (CV)** is a field in computer science where machines are taught to:
+    A) Understand natural language
+    B) Hear and interpret sound
+    C) See and understand images or videos
+    D) Control physical robots
+
+82. In Traditional Computer Vision, the process relied on manually programming rules and using filters to find:
+    A) Emotions and intentions
+    B) Edges, corners, colors, or shapes in images
+    C) Abstract concepts
+    D) Financial market trends
+
+83. Modern AI-powered Computer Vision primarily uses:
+    A) Manual rule programming
+    B) Hardcoded logic for every scenario
+    C) Machine learning, especially deep learning, to learn from data
+    D) Simple mathematical equations without learning
+
+84. When Traditional CV and AI-Powered CV work together, traditional CV might be used to:
+    A) Make the final decision on an image
+    B) Preprocess or clean the image (e.g., cropping, resizing)
+    C) Replace the need for neural networks
+    D) Train the deep learning model itself
+
+85. Which of the following is a task machines can learn to do using Machine Learning?
+    A) Predict the future with 100% certainty
+    B) Understand text and language
+    C) Create human-level artwork without any training
+    D) Eliminate all human error from processes
+
+86. **Classification** in computer vision means the computer:
+    A) Finds multiple objects and draws boxes around them
+    B) Labels each individual pixel in an image
+    C) Looks at an image and decides what's in it, but not where
+    D) Draws a box around a single object in an image
+
+87. If a computer identifies a cat in a photo and draws a **bounding box** around it, this is an example of:
+    A) Classification
+    B) Localization
+    C) Object Detection
+    D) Image Segmentation
+
+88. **Object Detection** combines which two tasks for multiple items in one image?
+    A) Classification and Segmentation
+    B) Localization and Segmentation
+    C) Classification and Localization
+    D) Classification and Recognition
+
+89. **Image Segmentation** is distinct from Object Detection because it:
+    A) Only identifies the presence of an object
+    B) Draws a single bounding box for all objects
+    C) Labels each individual pixel in the image
+    D) Only works for black and white images
+
+90. How do computers "see" images?
+    A) They use simulated human eyes
+    B) They interpret images as grids of numbers (pixel values)
+    C) They convert images into sound waves
+    D) They require human interpretation for every image
+
+91. What is the process of teaching a computer to make sense of what it sees?
+    A) Manually writing rules for every possible image
+    B) Showing it labeled images and training a model to find patterns
+    C) Relying solely on raw pixel data without any processing
+    D) Using only traditional computer vision techniques
+
+92. The process of **Facial Recognition** begins with which step?
+    A) Face Analysis
+    B) Face Detection
+    C) Face Encoding
+    D) Face Comparison
+
+93. In Facial Recognition, the step where the system measures facial features like the distance between eyes or the curve of lips is called:
+    A) Face Detection
+    B) Face Analysis (Feature Extraction)
+    C) Face Comparison
+    D) Face Encoding
+
+94. What is a "faceprint" in facial recognition?
+    A) A physical imprint of a face
+    B) A unique number pattern (mathematical code) that represents a face
+    C) A photograph of a face
+    D) The outline of a face
+
+95. The step where measured facial features are converted into numbers, like a special barcode, is called:
+    A) Face Detection
+    B) Face Analysis
+    C) Face Encoding
+    D) Face Comparison
+
+96. In the **Face Comparison** step, the machine compares the generated faceprint to codes stored in its:
+    A) Cloud storage
+    B) Random Access Memory (RAM)
+    C) Database of known faces
+    D) Internal processor cache
+
+97. During the **Training Phase** for Machine Learning in Facial Recognition, what is provided to the computer?
+    A) Unlabeled images of faces
+    B) Thousands of images of people's faces, each labeled with who the person is
+    C) Only instructions on how to identify faces
+    D) Rewards and penalties for guessing faces correctly
+
+98. Which of the following is an example of a feature extracted by Machine Learning models in facial recognition?
+    A) The person's height
+    B) The distance between eyes
+    C) The color of the person's clothes
+    D) The background scenery in the image
+
+99. Machine Learning in Facial Recognition is advantageous because:
+    A) It relies on simple, fixed rules
+    B) It cannot adapt to changes in faces like haircuts or expressions
+    C) It can learn complex patterns that humans might miss, and gets smarter with more faces
+    D) It requires less data than traditional methods
+
+100. Which application of facial recognition helps automate attendance systems in schools and offices?
+    A) Mobile Device Authentication
+    B) Law Enforcement and Security
+    C) Automated Attendance Systems
+    D) Retail and Marketing
+
+**Answer Key**
+
+1.  C
+2.  C
+3.  B
+4.  B
+5.  B
+6.  D
+7.  B
+8.  C
+9.  B
+10. C
+11. B
+12. B
+13. C
+14. B
+15. B
+16. B
+17. C
+18. B
+19. D
+20. C
+21. B
+22. B
+23. C
+24. C
+25. B
+26. B
+27. B
+28. C
+29. B
+30. C
+31. B
+32. B
+33. C
+34. B
+35. C
+36. C
+37. B
+38. B
+39. C
+40. B
+41. C
+42. B
+43. C
+44. B
+45. B
+46. B
+47. B
+48. B
+49. C
+50. A
+51. C
+52. B
+53. C
+54. B
+55. B
+56. B
+57. B
+58. C
+59. D
+60. C
+61. B
+62. C
+63. C
+64. C
+65. B
+66. B
+67. B
+68. C
+69. B
+70. A
+71. B
+72. B
+73. C
+74. B
+75. C
+76. C
+77. C
+78. B
+79. C
+80. C
+81. C
+82. B
+83. C
+84. B
+85. B
+86. C
+87. B
+88. C
+89. C
+90. B
+91. B
+92. B
+93. B
+94. B
+95. C
+96. C
+97. B
+98. B
+99. C
+100. C

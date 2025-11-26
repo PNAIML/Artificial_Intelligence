@@ -1,0 +1,31 @@
+CHATBOT LINK(USE CASE) https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-AI0101EN-SkillsNetwork/labs/Module1/index.html
+AIML
+https://developer.ibm.com/articles/cc-models-machine-learning/
+
+In this lesson, you have learned about cognitive computing:
+   Cognitive computing systems differ from conventional computing systems in that they can:
+
+Read and interpret unstructured data, understanding not just the meaning of words but also the intent and context in which they are used.
+Reason about problems in a way that humans reason and make decisions.
+Learn over time from their interactions with humans and keep getting smarter.
+About Machine Learning, Deep Learning and Neural Networks
+
+Machine Learning, a subset of AI, uses computer algorithms to analyze data and make intelligent decisions based on what it has learned. The three main categories of machine learning algorithms include Supervised Learning, Unsupervised Learning, and Reinforcement learning.
+Deep Learning, a specialized subset of Machine Learning, layers algorithms to create a neural network enabling AI systems to learn from unstructured data and continue learning on the job.
+Neural Networks, a collection of computing units modeled on biological neurons, take incoming data and learn to make decisions over time. The different types of neural networks include Perceptrons, Convolutional Neural Networks or CNNs, and Recurrent Neural Networks or RNNs.
+Supervised Learning is when we have class labels in the data set and use these to build the classification model.
+Supervised Learning is split into three categories – Regression, Classification, and Neural Networks.
+Machine learning algorithms are trained using data sets split into training data, validation data, and test data.
+And about AI application areas, including:
+
+Natural Language Processing (NLP) is a subset of artificial intelligence that enables computers to understand the meaning of human language, including the intent and context of use.
+Speech-to-text enables machines to convert speech to text by identifying common patterns in the different pronunciations of a word, mapping new voice samples to corresponding words.
+Speech Synthesis enables machines to create natural sounding voice models, including the voice of particular individuals.
+Computer Vision enables machines to identify and differentiate objects in images the same way humans do.
+Self-driving cars is an application of AI that can utilize NLP, speech, and most importantly, computer vision.
+To learn more about the topics in this module, read these articles:
+How to get started with cognitive technology
+Models for Machine Learning
+Applications of Deep Learning
+A Neural Networks deep dive
+A beginner's guide to Natural Language Processing
